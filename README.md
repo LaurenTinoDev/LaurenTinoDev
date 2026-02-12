@@ -60,8 +60,8 @@ I’m the founder of **Laurentino Wealth** and creator of the **Ciência da Rend
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laurentinodev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentinodev&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LaurenTinoDev&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenTinoDev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
