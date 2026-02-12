@@ -1,29 +1,24 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Pedro Laurentino (LaurenTinoDev)
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
-🇧🇷 Brazil
+🚀 **Data-Driven Investor | Machine Learning & Finance Specialist** 🇧🇷 Belo Jardim, PE - Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I bridge the gap between **Financial Markets** and **Data Science**. My focus is on building algorithms that decode market trends, optimize portfolios, and generate consistent wealth through evidence-based methodologies.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I’m the founder of **Laurentino Wealth** and creator of the **Ciência da Renda** methodology, where I turn complex data into actionable investment strategies.
 
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/LaurenTinoDev">
+    <img src="https://img.shields.io/badge/GitHub-LaurenTinoDev-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/laurentinopedro">
+    <img src="https://img.shields.io/badge/Instagram-@LAURENTINOPEDRO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.youtube.com/@laurentinopedro-r3w">
+    <img src="https://img.shields.io/badge/YouTube-Pedro Laurentino-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -31,63 +26,52 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+-   🤖 **Algorithmic Trading:** Developing Python-based bots and strategies.
+-   📊 **Predictive Analysis:** Using Machine Learning (Scikit-learn) to forecast dividends and stock trends.
+-   🧩 **Evidence-based Investing:** Transforming academic theories (Fama-French, Modern Portfolio Theory) into code.
+-   📈 **Data Visualization:** Creating deep-dive financial dashboards in Power BI.
+-   🎓 **Financial Education:** Teaching how to use technology to stop "gambling" and start investing.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Data Science & Finance
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
-### Backend
+### Tools & Environment
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LaurenTinoDev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenTinoDev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Investimento é ciência. O resto é sorte.  
+> Code is the tool that transforms data into financial freedom."_
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ If you follow the path of data-driven wealth, feel free to explore my repositories!  
+🤝 Always open to discussing Quantitative Finance, Machine Learning and Wealth Management.
